@@ -1,5 +1,6 @@
 programming-homework-assignment-*/.vs/
 programming-homework-assignment-*/x64/
+programming-homework-assignment-*/Debug/
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user

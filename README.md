@@ -1,7 +1,7 @@
 ## *Introduction to Programming (COP 2000)*
-*This repository is the remote home for my assignment projects I completed while taking the Introduction to Programming class at IRSC.*
+*This repository is the remote home for assignment projects I completed while taking the Introduction to Programming class at IRSC.*
 
-*Each program completed in the class served as practice for new programming concepts we learned each week. Here is a list of each of the project names and which fundamentals they covered:*
+*Each program completed during the course served as practice for new programming concepts we learned each week. Here is a list of each of the project names and which fundamentals they covered:*
 
 1. [**Gunter's Mountain Shop I**](https://github.com/sunlightbeauty/COP-2000-IRSC/blob/261679277991817811fd6331e23ef9a1f6e4101a/programming-homework-assignment-1/homework_1_gunters_mountain_shop--lucien_aaliyah.cpp) (variables, cout)
 2. [**Age Calculator**](https://github.com/sunlightbeauty/COP-2000-IRSC/blob/261679277991817811fd6331e23ef9a1f6e4101a/programming-homework-assignment-2/homework_2_age_calculator--lucien_aaliyah.cpp) (string header, cin, cin.get, cin.ignore)

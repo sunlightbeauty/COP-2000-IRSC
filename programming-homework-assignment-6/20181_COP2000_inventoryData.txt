@@ -1,0 +1,10 @@
+unicorn	yes	yes
+dragon	yes	yes
+manticore	yes	no
+mermaid	yes	yes
+pegasus	yes	yes
+sprite	yes	no
+wizard	yes	no
+elf	yes	yes
+giant	yes	no
+fairy	yes	yes

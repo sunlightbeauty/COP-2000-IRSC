@@ -1,0 +1,7 @@
+programming-homework-assignment-*/.vs/
+programming-homework-assignment-*/x64/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.docx
